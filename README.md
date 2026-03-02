@@ -56,9 +56,6 @@ Target Variable:
 
 ## 🤖 Models Used
 - Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
-- Support Vector Machine (SVM)
 
 ---
 
